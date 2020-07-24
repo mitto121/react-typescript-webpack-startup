@@ -14,11 +14,11 @@ You will also see any lint errors in the console.
 
 ### `npm run test`
 
-Above command will not work.Currently I am Working on testing part by configuration jest and enzyme with coverage.
+ARun test and show converage on console. It is not implemented yet but I am planing to use Jest with enzyme to write test case and show coverage on console once test case get sucess.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.<br />
+Builds the app for production to the `dist` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.<br />
