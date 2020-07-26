@@ -9,8 +9,9 @@ export const SideNav = (props) => {
             <h3 className="title">Mitto Pal</h3>
             <ul>
                 <li><a href="/">Home</a></li>
-                <li><a href="/">About</a></li>
-                <li><a href="/">Contact</a></li>
+                <li><a href="/">Contact</a></li>           
+                <li><a href="/">Youtube Channel</a></li>
+                <li><a href="/">Blogs</a></li>
             </ul>
         </nav>
     )

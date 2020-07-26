@@ -2,13 +2,13 @@ import * as React from 'react';
 import {ToolBar} from './toolBar';
 import { Grid } from '@material-ui/core';
 import styled from '@emotion/styled';
-import { UserProfile } from './profile/userProfile';
+import { UserProfile } from './profile';
 
 export const StyleMainContainer = styled(Grid)`
     padding-top:0.7rem;
     height:100%;
     width:100%;
-`;
+   `;
 export const StylePage = styled(Grid)`
     height:100%;
     width:100%;

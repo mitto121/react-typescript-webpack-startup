@@ -27,7 +27,7 @@ export const ToolBar = () => {
                         <MenuIcon />
                     </IconButton>
                     <Typography variant="h6" color="inherit">
-                        Mitto Pal
+                        Portfolio
           </Typography>
                 </Toolbar>
                 {sideNavOpen && (
